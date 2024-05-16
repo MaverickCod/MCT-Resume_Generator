@@ -5,7 +5,7 @@ let jobSuggestionsDisplayContainer = document.getElementById("jobSuggestionsDisp
 
 
 import { GoogleGenerativeAI } from "@google/generative-ai";
-    const API_KEY = "AIzaSyBIEScln1EtBCi61VYNPaogJ8U7Fe-LFEA";
+    const API_KEY = "AIzaSyAd6wVv0I3Ng0BYZWjHLBQK7XmA0PoxdWw";
 
     const genAI = new GoogleGenerativeAI(API_KEY);
 
